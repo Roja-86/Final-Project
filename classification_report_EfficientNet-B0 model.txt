@@ -1,0 +1,21 @@
+              precision    recall  f1-score   support
+
+       delta       0.96      0.97      0.96       330
+     estuary       0.91      0.94      0.92       125
+       flood       0.88      0.89      0.88       283
+    glaciers       0.97      0.96      0.97       240
+  hot_spring       0.85      0.90      0.88       201
+        lake       0.91      0.88      0.89       153
+        pool       0.95      0.94      0.94        79
+      puddle       0.83      0.80      0.81       168
+      rapids       0.89      0.85      0.87       219
+       river       0.74      0.81      0.77        73
+         sea       0.90      0.94      0.92       108
+        snow       0.96      0.92      0.94       142
+       swamp       0.96      0.93      0.94       188
+   waterfall       0.84      0.79      0.81        96
+     wetland       0.95      0.97      0.96        93
+
+    accuracy                           0.91      2498
+   macro avg       0.90      0.90      0.90      2498
+weighted avg       0.91      0.91      0.91      2498
